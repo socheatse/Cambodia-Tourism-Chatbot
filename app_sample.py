@@ -15,7 +15,7 @@ if st.button("Send"):
     if user_input.strip() != "":
         # Simple demo response
         demo_responses = {
-            "angkor": "Angkor Wat is in Siem Reap, Cambodia",
+            "angkorwat": "Angkor Wat is in Siem Reap, Cambodia",
             "food": "Try Khmer curry and fish amok!",
             "visit": "Best time is November to February",
             "safe": "Yes, Cambodia is generally safe for tourists",
